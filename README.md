@@ -7,6 +7,8 @@
 
 Une application dashboard moderne et professionnelle pour **Maroclear**, le dépositaire central du Maroc, offrant des statistiques et analyses en temps réel du marché financier.
 
+C'est un projet qui consiste à développer une application financière pour l'entreprise Maroclear.
+
 ## ✨ Fonctionnalités
 
 ### 📊 **Dashboard Principal**
