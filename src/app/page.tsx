@@ -36,6 +36,7 @@ import {
   MoreHorizontal
 } from 'lucide-react'
 import { generateMockMarketData, generateMockSecurities, generateDashboardMetrics } from '@/data/mock-data'
+import { SecurityData } from '@/types'
 
 export default function MaroclearDashboard() {
   const [currentTime, setCurrentTime] = useState<Date | null>(null)
@@ -678,7 +679,7 @@ export default function MaroclearDashboard() {
                     </tr>
                   </thead>
                   <tbody className="divide-y divide-gray-100">
-                    {topSecuritiesData.map((security, index) => (
+                    {topSecuritiesData.map((security: SecurityData, index: number) => (
                       <tr key={index} className="hover:bg-gray-50 transition-colors group">
                         <td className="py-4 px-6">
                           <div className="flex items-center space-x-3">

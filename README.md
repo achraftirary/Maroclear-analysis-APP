@@ -62,7 +62,7 @@ npm start
 
 ```
 src/
-├── app/                    # App Router de Next.js
+├── app/                   # App Router de Next.js
 │   ├── api/               # Routes API
 │   │   └── maroclear/     # Endpoints spécifiques
 │   ├── globals.css        # Styles globaux modernes
