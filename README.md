@@ -176,7 +176,7 @@ vercel deploy
 ## �📞 Support
 
 Pour toute question ou suggestion :
-- 📧 Email : [your-email]
+- 📧 Email : achraftiraryperso00@gmail.com
 - 💬 Issues : Utilisez GitHub Issues
 - 📖 Documentation : Consultez ce README
 
